@@ -1,7 +1,7 @@
 capistrano-php-setup
 ====================
 
-Basing setup for deployment of PHP application.
+Basic setup for deployment of PHP application.
 
 * Handles multiple environments (development, staging, production).
 * Notifies New Relic about deployment.
